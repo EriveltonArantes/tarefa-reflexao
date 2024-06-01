@@ -2,11 +2,7 @@ package br.com.welc.reflections;
 
 import java.lang.annotation.Annotation;
 
-/**
- * 
- * @author wagne
- *
- */
+
 public class AppTeste {
 
 	/**
